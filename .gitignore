@@ -1,0 +1,25 @@
+# Data — NEVER commit the challenge dataset (Amazon's, redistribution not allowed)
+student_resource/
+data_cache/
+runs/
+output/
+*.tsv
+*.parquet
+*.csv
+team_Elite_submission.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Logs / process artifacts (may contain dataset rows)
+*.log
+eda_report.txt
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

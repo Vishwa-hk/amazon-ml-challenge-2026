@@ -1,0 +1,11 @@
+# Python 3.14.7 (64-bit). GPU: xgboost CUDA build on an NVIDIA RTX 5060 Ti (driver 616.92).
+# All libraries are MIT / Apache-2.0 / BSD licensed. No external data, services or pretrained models.
+polars==1.44.2
+pyarrow==25.0.1
+numpy==2.5.3
+pandas==3.0.6
+xgboost==3.4.1
+lightgbm==4.7.0
+RapidFuzz==3.14.6
+scikit-learn==1.9.1
+scipy==1.18.1
